@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/ppuritscher/ppuritscher/main/1500x500.jpeg)
 
 <!--
 **ppuritscher/ppuritscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
